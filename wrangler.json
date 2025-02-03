@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "broken-wood-8437",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1ccdeb82-88a5-4059-b246-a7d9f38429ed",
+      "database_name": "tiny-breeze-c98c-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
